@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "c2878fcf1fb0b978",
+    "type": "split",
+    "children": [
+      {
+        "id": "41dc21278348f348",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e5b2a9603021fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Input_and_Variables.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-Input_and_Variables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e78956063a38868",
+    "type": "split",
+    "children": [
+      {
+        "id": "20b5a558087596f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "155972b67a0096c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "121ffa76f9f122a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "min max",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "85f7d85996c81f69",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2139f95cb97f3375",
+    "type": "split",
+    "children": [
+      {
+        "id": "e801568e98f82c5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2402de7939193391",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ExamReview/E2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for E2"
+            }
+          },
+          {
+            "id": "27d980a5bd62e275",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ExamReview/E2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from E2"
+            }
+          },
+          {
+            "id": "9494f58b3bb8033d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "26b39cd6f896e7ba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0ae8710580aa9aa9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ExamReview/E2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of E2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9e5b2a9603021fa7",
+  "lastOpenFiles": [
+    "01-Background.md",
+    "01A-Background.md",
+    "02-Input_and_Variables.md",
+    "02-Input_and_Variables.md~",
+    "4913",
+    "02-Conditional.md~",
+    "02-Conditional.md",
+    "01A-Background.md~",
+    "01-Background.md~",
+    "LecFormated/L015.md",
+    "LecNew/L016x.md",
+    "LecFormated/L016.md",
+    "LecFormated/L09.md",
+    "LecFormated/L10.md",
+    "LecFormated/L11.md",
+    "LecFormated/L12.md",
+    "LecFormated/L013.md",
+    "LecFormated/L014.md",
+    "LecNew/L017.md",
+    "LecNew/L016.md",
+    "ExamReview/E2.md",
+    "LecNew/L016.md~",
+    "LecNew/L013.md",
+    "LecFormated/Master.md",
+    "ExamReview/2026-04-20.md",
+    "ExamReview/2026-04-20.md~",
+    "MATH301_Cards/E2.md",
+    "ExamReview/E2.md~"
+  ]
+}

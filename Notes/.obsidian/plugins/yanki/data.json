@@ -1,0 +1,43 @@
+{
+  "ankiConnect": {
+    "host": "http://localhost",
+    "port": 8765
+  },
+  "folders": [
+    "MATH301_Cards"
+  ],
+  "ignoreFolderNotes": false,
+  "manageFilenames": {
+    "autoRenameDebounceIntervalMs": 300,
+    "autoRenameTrigger": "off",
+    "maxLength": 60,
+    "mode": "prompt"
+  },
+  "namespace": "Yanki Obsidian - Vault ID 3cf99488c4552197",
+  "showAdvancedSettings": false,
+  "stats": {
+    "sync": {
+      "auto": 0,
+      "duration": 314.61250000019936,
+      "errors": 0,
+      "invalid": 3,
+      "latestSyncTime": 1775968418,
+      "manual": 7,
+      "notes": {
+        "ankiUnreachable": 4,
+        "created": 2,
+        "deleted": 1,
+        "matched": 0,
+        "unchanged": 0,
+        "updated": 1
+      }
+    }
+  },
+  "sync": {
+    "autoSyncDebounceIntervalMs": 4000,
+    "autoSyncEnabled": false,
+    "mediaMode": "local",
+    "pushToAnkiWeb": true
+  },
+  "verboseNotices": false
+}
